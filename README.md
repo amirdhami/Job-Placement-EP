@@ -6,7 +6,7 @@ This project investigates the impact of government job assistance programs on th
 
 ## Repository Structure
 
-This repository contains the following files:
+This repository contains the following files and folders:
 
 1. **data.csv** - The dataset used for the analysis.
 2. **data.ipynb** - The Jupyter notebook containing the data analysis, including calculations, model fitting, and plotting results.
@@ -14,6 +14,7 @@ This repository contains the following files:
 4. **prop_update.pdf** - The project update report submitted as part of the course requirements.
 5. **proposal.pdf** - The project proposal outlining the research questions, dataset, and initial hypotheses.
 6. **report.pdf** - The final project report detailing the methodology, analysis, results, and conclusions.
+7. **Python** - Contains the causaldata python package.
 
 ## Files Description
 
