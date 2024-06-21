@@ -37,7 +37,7 @@ The project proposal. It outlines the problem statement, causal questions, datas
 ### prop_update.pdf
 A project update report. It details the progress made, including dataset statistics, causal graph, estimation methods, and initial findings. The report also discusses challenges and next steps for the project.
 
-### report.pdf
+### final_report.pdf
 The final report provides a comprehensive overview of the project, including:
 - Detailed code and documentation.
 - Estimation implementation using DML.
